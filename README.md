@@ -13,6 +13,6 @@ Para buildar (no Windows):
 
 Com o Code::Blocks:
    1) Abrir o arquivo /src/Projeto.cbp primeiro e depois o /src/main.cpp.
-   2) Clicar no botão de compilar. abra o arquivo Projeto.cbp no CodeBlocks 
+   2) Clicar no botão de compilar. 
 
       
